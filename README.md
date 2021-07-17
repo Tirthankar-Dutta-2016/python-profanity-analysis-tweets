@@ -11,7 +11,7 @@ Suppose two files are provided such that one file contains Twitter tweets by var
 </p>
 <p>
 The file containg tweets will be called as the "tweet file". It can have any one of the extensions - "txt/text/xls/xlsx/xlsm" and a following format: A single column containing
-the tweets preceeded by the users' Twitter handle. 
+the tweets preceeded by the users' Twitter handle. Can be with/without a header.
 For example,
   <ul>
     <li>"@User1 tweet"</li>
